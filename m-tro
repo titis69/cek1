@@ -56,3 +56,5 @@ clear
 print_success "Script Name Default"
 sleep 3
 menu
+fi
+}
